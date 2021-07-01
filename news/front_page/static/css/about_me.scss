@@ -1,0 +1,30 @@
+.box {
+  border: 1px solid #ddd;
+  padding: 30px 20px;
+  margin: 20px 0;
+  font-size: 20px;
+
+  h1 {
+    font-weight: bold;
+  }
+
+  ul {
+    margin-left: 2em;
+
+    li {
+      margin-left: 2em;
+      list-style: circle inside;
+    }
+  }
+
+  .content {
+    margin-left: 1em;
+
+    a {
+      color: #01AAED;
+      &:hover {
+        color: #1E9FFF;
+      }
+    }
+  }
+}

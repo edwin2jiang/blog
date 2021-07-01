@@ -1,0 +1,20 @@
+.box {
+  border: 1px solid #ddd;
+  padding: 30px 20px;
+  margin: 20px 0;
+  font-size: 20px; }
+  .box h1 {
+    font-weight: bold; }
+  .box ul {
+    margin-left: 2em; }
+    .box ul li {
+      margin-left: 2em;
+      list-style: circle inside; }
+  .box .content {
+    margin-left: 1em; }
+    .box .content a {
+      color: #01AAED; }
+      .box .content a:hover {
+        color: #1E9FFF; }
+
+/*# sourceMappingURL=about_me.css.map */
